@@ -18,6 +18,7 @@ The difference between the neuron’s predicted and expected output is calculate
 error derivative formula and Sigmoid function 20,000 times to determine an output value. 
 
 Example:
+
 Pre-trained Inputs: [0,0,0], [1,1,1], [1,0,0], [0,1,1]
 Pre-trained Outputs: [0, 1, 0, 1]
 Classification Rule: The second element in the pre-trained input is the output. 
