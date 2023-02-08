@@ -1,5 +1,3 @@
-## Autonomous-Motorsports-Purdue
-
 # haar_cascade.py
 
 Classification rules help to differentiate between the background pixels and object pixels. 
