@@ -25,3 +25,8 @@ Classification Rule: The second element in the pre-trained input is the output.
 User Input: [0,1,0]
 Expected Output: [1]
 Actual Output: [0.99490848]
+
+# load_data.py
+
+Loads training data from CSV and split into training and validation sets and then passes data through layers of the neural network.  
+
